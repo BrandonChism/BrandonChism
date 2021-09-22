@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+}
+
+div {
+    width: 50%; 
+    height: 200px; 
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.container {
+    display: flex;
+    flex-wrap: row;
+}
